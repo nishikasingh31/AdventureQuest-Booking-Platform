@@ -40,8 +40,6 @@ All routes are tested with **Postman**, ensuring validation and error handling.
 - `POST /reservation/add` → Create a new reservation (Customer only)  
 
 ---
----
-
 ## ▶️ Getting Started
 
 ### 1. Clone the repository
