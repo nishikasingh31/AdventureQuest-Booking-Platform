@@ -3,6 +3,7 @@
 AdventureQuest is a backend prototype for a booking platform, built with **Node.js, Express, and MongoDB**.  
 It provides APIs for **user authentication**, **city management**, **adventure management**, and **reservations**, with role-based authorization.  
 All routes are tested with **Postman**, ensuring validation and error handling.
+
 ---
 
 ## 🚀 Features
